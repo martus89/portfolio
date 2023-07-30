@@ -5,24 +5,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Tangerine">
-    <style>
-        body {
-        font-family: Roboto;
-        font-size: 20px;
-        }
-
-        ul {
-        text-align: center;
-        list-style-position: inside;
-        }
-
-
-        table {
-        margin-left:auto;
-        margin-right:auto;}
-
-    </style>
-    <title>My portfolio</title>
 
 </head>
 <body>
@@ -40,7 +22,6 @@
         <p><b><u>About me</u></b></p>
         <p>I am no stranger to corporate world, nor supply chain, aerospace, nor E2E order management. I've been there and climbed up the ladder. I understand business and its processes.<br>
         Dynamic and thrives in fast-paced environments. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. <br>Hire me because of attitude and see where it can take me.</p>
-
     </div>
         <br>
         <br>
