@@ -11,7 +11,7 @@
 
 <br><br>
 <div>
-    <center><div><h1>Marta Ciesla</h1></div></center>
+    <div style="center"><h1>Marta Ciesla</h1></div>
     <br>
     <hr style="width:60%;margin:auto;">
     <br>
@@ -96,6 +96,6 @@
     <br>
     <div><p>Want to get in touch? <a href = "mailto: marta.ciesla89@gmail.com">E-mail me.</a></p></div>
 <br><br><br>
-</center>
+</center></div>
 </body>
 </html>
