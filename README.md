@@ -16,6 +16,7 @@
         list-style-position: inside;
         }
 
+
         table {
         margin-left:auto;
         margin-right:auto;}
