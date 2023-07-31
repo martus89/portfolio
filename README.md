@@ -18,14 +18,14 @@
     <br>
     <br>
     <div>
-    <h4>About me</h4>
+    <h3>About me</h3>
         <p>I am no stranger to corporate world, nor supply chain, aerospace, nor E2E order management. I've been there and climbed up the ladder. I understand business and its processes.<br>
         Dynamic and thrives in fast-paced environments is a good way to describe me. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. <br>Hire me because of attitude and see where it can take me.</p>
     </div>
     <br>
     <br>
     <div>
-        <h4>What am I doing here?</h4>
+        <h3>What am I doing here?</h3>
         <p><b>When one does not progress, regress happens. I learn daily to improve my skills:</b></p>
         <div class="container">
           <div class="row">
@@ -60,7 +60,7 @@
     <br>
     <div>
         <br>
-        <h4>Things I am proud of:</h4>
+        <h3>Things I am proud of:</h3>
         <p><b>Hey, who would have thought. I did some cool stuff already:</b></p>
         <div class="container">
           <div class="row">
@@ -80,7 +80,7 @@
     <br>
     <div>
         <br>
-        <h4>My humble projects:</h4>
+        <h3>My humble projects:</h3>
         <div class="container">
           <div class="row">
             <div class="col">Scouts page - Robot Framework</div>
