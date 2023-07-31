@@ -9,24 +9,23 @@
 </head>
 <body>
 
-<br><br>
+<br>
+<br>
 <div>
     <div style="center"><h1>Marta Ciesla</h1></div>
+    <p>On the road to becoming a testing expert<br>
+        and enjoying every step of the way 👩‍💻</p>
     <br>
-    <hr style="width:60%;margin:auto;">
     <br>
-    <center><p>On the road to becoming a testing expert<br>
-        and enjoying every step of the way</p>
-        <img src="files/learning.png" alt="learning-girl">
     <div>
-        <p><b><u>About me</u></b></p>
+    <h4>About me</h4>
         <p>I am no stranger to corporate world, nor supply chain, aerospace, nor E2E order management. I've been there and climbed up the ladder. I understand business and its processes.<br>
-        Dynamic and thrives in fast-paced environments. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. <br>Hire me because of attitude and see where it can take me.</p>
+        Dynamic and thrives in fast-paced environments is a good way to describe me. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. <br>Hire me because of attitude and see where it can take me.</p>
     </div>
-        <br>
-        <br>
+    <br>
+    <br>
     <div>
-        <p><b><u>What am I doing here?</u></b></p>
+        <h4>What am I doing here?</h4>
         <p><b>When one does not progress, regress happens. I learn daily to improve my skills:</b></p>
         <div class="container">
           <div class="row">
@@ -45,7 +44,7 @@
             <div class="col">HTML/CSS/Bootstrap</div>
           </div>
           <div class="row">
-            <div class="col">GitHub</div>
+            <div class="col">Git</div>
           </div>
           <div class="row">
             <div class="col">SAP</div>
@@ -58,10 +57,10 @@
           </div>
         </div>
     </div>
-        <br>
+    <br>
     <div>
         <br>
-        <p><b><u>Things I am proud of:</u></b></p>
+        <h4>Things I am proud of:</h4>
         <p><b>Hey, who would have thought. I did some cool stuff already:</b></p>
         <div class="container">
           <div class="row">
@@ -78,24 +77,27 @@
           </div>
         </div>
     </div>
-<br>
-<div>
+    <br>
+    <div>
         <br>
-        <p><b><u>My humble projects:</u></b></p>
+        <h4>My humble projects:</h4>
         <div class="container">
           <div class="row">
             <div class="col">Scouts page - Robot Framework</div>
           </div>
           <div class="row">
-            <div class="col">Scouts page</div>
+            <div class="col">Scouts page - Selenium</div>
           </div>
         </div>
     </div>
-<br><br>
-    <hr style="width:60%;margin:auto;">
-    <br>
-    <div><p>Want to get in touch? <a href = "mailto: marta.ciesla89@gmail.com">E-mail me.</a></p></div>
-<br><br><br>
-</center></div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div><a href = "https://www.linkedin.com/in/marta-ciesla-1a773b50/">Get in touch</a></div>
+        <br>
+        <br>
+        <br>
+    </div>
 </body>
 </html>
