@@ -13,14 +13,14 @@
 <br>
 <div>
     <div style="center"><h1>Marta Ciesla</h1></div>
-    <p>On the road to becoming a testing expert<br>
+    <p>On the road to become a testing expert<br>
         and enjoying every step of the way 👩‍💻</p>
     <br>
     <br>
     <div>
     <h3>About me</h3>
         <p>I am no stranger to corporate world, nor supply chain, aerospace, nor E2E order management. I've been there and climbed up the ladder. I understand business and its processes.<br>
-        Dynamic and thrives in fast-paced environments is a good way to describe me. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. <br>Hire me because of attitude and see where it can take me.</p>
+        Dynamic and thrives in fast-paced environments is a good way to describe me. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. <br>Hire me because of my attitude and see where it can take me.</p>
     </div>
     <br>
     <br>
