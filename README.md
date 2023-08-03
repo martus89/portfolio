@@ -26,7 +26,7 @@ Dynamic and thrives in fast-paced environments is a good way to describe me. I t
 
 <br>
 
-### Things I am proud of:
+### Things I am proud of
 *Hey, who would have thought. I did some cool stuff already!*
 
 - Completed SheCodes Basics [click](https://www.shecodes.io/certificates/0c6b59e210a45001d5e91eb816920625)
@@ -36,7 +36,7 @@ Dynamic and thrives in fast-paced environments is a good way to describe me. I t
 
 <br>
 
-### Soft skills:
+### Soft skills
 *Duh! Try living without them...*
 
 - Likes working with people - genuinely!
@@ -50,7 +50,7 @@ Dynamic and thrives in fast-paced environments is a good way to describe me. I t
 
 <br>
 
-### My humble projects:
+### My humble projects
 *Only practice makes perfect*
 
 - Scouts page - robot framework [click](https://github.com/martus89/footballscouts_robotframework_r)
