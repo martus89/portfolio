@@ -86,7 +86,7 @@
             <div class="col"><a href = "https://github.com/martus89/footballscouts_robotframework_r" style="text-decoration:none; color:black">Scouts page - robot framework</a></div>
           </div>
           <div class="row">
-            <div class="col"><a href = "https://github.com/martus89/Testing_scouts" style="text-decoration:none; color:black">Scouts page - selenium</a></div>
+            <div class="col"><a href = "https://github.com/martus89/Testing_scouts" style="text-decoration:none; color:#000000">Scouts page - selenium</a></div>
           </div>
         </div>
     </div>
@@ -94,7 +94,7 @@
         <br>
         <br>
         <br>
-        <div><a href = "https://www.linkedin.com/in/marta-ciesla-1a773b50/" style="text-decoration:none; color:black">Get in touch</a></div>
+        <div><a href = "https://www.linkedin.com/in/marta-ciesla-1a773b50/" style="text-decoration:none; color:#000000">Get in touch</a></div>
         <br>
         <br>
         <br>
