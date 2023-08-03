@@ -55,6 +55,7 @@ Dynamic and thrives in fast-paced environments is a good way to describe me. I t
 
 - Scouts page - robot framework [click](https://github.com/martus89/footballscouts_robotframework_r)
 - Scouts page - selenium [click](https://github.com/martus89/Testing_scouts)
+- Scouts page - test cases [click](https://drive.google.com/drive/folders/1w3fDOcsQiULcTEN04eUFY1Uuzuc3ASXT?usp=drive_link)
 
 
 
