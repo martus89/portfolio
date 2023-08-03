@@ -1,9 +1,9 @@
 
-## Marta Ciesla
+# Marta Ciesla
 On the road to become a testing expert  
 and enjoying every step of the way 👩‍💻
-***
 
+<br>
 
 ### About me
 I am no stranger to corporate world, nor supply chain, aerospace, nor E2E order management. I've been there and climbed up the ladder. I understand business and its processes.<br>
