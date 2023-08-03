@@ -41,9 +41,9 @@ Dynamic and thrives in fast-paced environments is a good way to describe me. I t
 
 - Likes working with people - genuinely!
 - Will ask questions without fear and shame
-- Quickly blends in to every team
-- Trained to handle hard stakeholders
-- Pet lover (yes, even bosses pets ;) )
+- Quickly blends in with every team
+- Trained to handle so-called hard stakeholders
+- Pet lover (yes, even boss's pets ;) )
 - Negotiates even with terrorists
 - Always walks in to the room with a smile - virtual one, too
 - Self starter that wants to grow
