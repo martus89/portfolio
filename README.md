@@ -83,10 +83,10 @@
         <h3>My humble projects:</h3>
         <div class="container">
           <div class="row">
-            <div class="col">Scouts page - Robot Framework</div>
+            <div class="col"><a href = "https://github.com/martus89/footballscouts_robotframework_r" style="text-decoration:none; color:black">Scouts page - robot framework</a></div>
           </div>
           <div class="row">
-            <div class="col">Scouts page - Selenium</div>
+            <div class="col"><a href = "https://github.com/martus89/Testing_scouts" style="text-decoration:none; color:black">Scouts page - selenium</a></div>
           </div>
         </div>
     </div>
