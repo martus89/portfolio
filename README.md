@@ -94,7 +94,7 @@
         <br>
         <br>
         <br>
-        <div><a href = "https://www.linkedin.com/in/marta-ciesla-1a773b50/">Get in touch</a></div>
+        <div><a href = "https://www.linkedin.com/in/marta-ciesla-1a773b50/" style="text-decoration:none; color:black">Get in touch</a></div>
         <br>
         <br>
         <br>
