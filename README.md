@@ -8,6 +8,7 @@ and enjoying every step of the way 👩‍💻
 ### About me
 I am no stranger to corporate world, nor supply chain, aerospace, nor E2E order management. I've been there and climbed up the ladder. I understand business and its processes.<br>
 Dynamic and thrives in fast-paced environments is a good way to describe me. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. Hire me because of my attitude and see where it can take me.
+[My CV]()
 
 <br>
 
@@ -31,7 +32,7 @@ Dynamic and thrives in fast-paced environments is a good way to describe me. I t
 
 - Completed SheCodes Basics [click](https://www.shecodes.io/certificates/0c6b59e210a45001d5e91eb816920625)
 - Completed full Python bootcamp at SD Academy [click](https://app.diplomasafe.com/pl-PL/diploma/def0f72e58ac174f2604661dc0ffbd40927ad232d)
-- Completed full test automation for Python+Selenium challenge at DareIT
+- Completed full test automation for Python+Selenium challenge at DareIT [click](https://github.com/martus89/portfolio/blob/master/files/EN_Certificate%20of%20completion_Automat%20ed%20Testing%20%2B%20Python_Marta%20Cie%C5%9Bla.pdf)
 - Took part in my very first UAT at my previous job and rocked it
 
 <br>
