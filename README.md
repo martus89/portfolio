@@ -8,7 +8,7 @@ and enjoying every step of the way 👩‍💻
 ### About me
 I am no stranger to corporate world, nor supply chain, aerospace, nor E2E order management. I've been there and climbed up the ladder. I understand business and its processes.<br>
 Dynamic and thrives in fast-paced environments is a good way to describe me. I take my daily tasks seriously, but work is not just a 9 to 5. My need to develop can't be closed in a CV and you should not hire by one. Hire me because of my attitude and see where it can take me.
-[My CV]()
+[My CV](https://github.com/martus89/portfolio/blob/master/files/CV_Marta_Ciesla.pdf)
 
 <br>
 
