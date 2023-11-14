@@ -1,6 +1,6 @@
 
 # Marta Ciesla
-On the road to become a testing expert  
+On the road to become a testing/python expert
 and enjoying every step of the way 👩‍💻
 
 <br>
@@ -15,15 +15,17 @@ Dynamic and thrives in fast-paced environments is a good way to describe me. I t
 ### What am I doing here?
 
 *When one does not progress, regress happens. I learn daily to improve my skills:*  
-- Python
-- Django
+- Python (OOP, working with basic libraries like Click, BeautifulSoup, json)
+- basics of working with APIs (requests library)
+- writing and running basic tests using pytest framework
+- Django framework
 - Selenium
-- Robot Framework
-- HTML/CSS/Bootstrap
-- Git
+- RobotFramework
+- familiarity with front-end topics (HTML/CSS/Bootstrap)
+- familiarity with collaboration tools (Github)
 - SAP
-- SQL
-- SCRUM
+- basics of relational databases (SQL)
+- basics of SCRUM
 
 <br>
 
